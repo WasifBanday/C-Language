@@ -1,3 +1,7 @@
+//Question = calculating simple interest(SI)
+//Formula for calculating interest = PRT/100
+//principal(P)=100 , rate(R)=10 , time(T)=2
+
 #include<stdio.h>
 #include<conio.h>
 int main ()
@@ -10,3 +14,31 @@ int main ()
     printf("Interest=%f",SI);
     return 0;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
