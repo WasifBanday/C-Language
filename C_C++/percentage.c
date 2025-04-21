@@ -7,6 +7,6 @@ int main()
     float m3=89; //Chemistry
     float m4=79; //English
     float m5=95; //EVS
-    float p=(m1+m2+m3+m4+m5)/5;
+    float p=(m1+m2+m3+m4+m5)/500*100;           //percentage formula = obtained marks /total marks * handred
     printf("Percentage OF 5 Subjects = %f",p);
 }

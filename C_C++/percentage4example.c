@@ -10,6 +10,9 @@ int main ()
     printf("Percentage Of 4 Subjects=%f",p);
     return 0;
 }
+
+
+
 //160=Total marks of 4 subjects 
 //100=percentage from 100
-//use formula:: Total marks obtained / Total marks * Hundred(because we have to see from 100 percent)
+//Using %tage formula :- Total marks obtained / Total marks * Hundred

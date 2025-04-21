@@ -4,7 +4,7 @@
 
 #include<stdio.h>
 #include<conio.h>
-int main ()
+int main()
 {
     float P,R,T,SI;              // 4 Container gets created (4 dabbe bana dea eik hi float se)
     P=100;
@@ -14,6 +14,7 @@ int main ()
     printf("Interest=%f",SI);
     return 0;
 }
+
 
 
 
